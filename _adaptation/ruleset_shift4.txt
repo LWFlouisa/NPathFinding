@@ -1,0 +1,9 @@
+python3 get_statistics.py
+ruby shortest_path_between_traffic.rb
+ruby casefile.rb
+ruby analyze.rb
+ruby casefile.rb
+python3 get_statistics.py
+ruby shortest_path_between_traffic.rb
+ruby analyze.rb
+ruby casefile.rb
