@@ -1,9 +1,9 @@
-ruby analyze.rb
-ruby casefile.rb
-python3 get_statistics.py
-ruby shortest_path_between_traffic.rb
-ruby analyze.rb
-ruby casefile.rb
-python3 get_statistics.py
-ruby shortest_path_between_traffic.rb
-ruby casefile.rb
+ruby ruby/word_types.rb
+./compiled/get_statistics
+metta-py metta_py/matrice.msa
+ruby ruby/word_types.rb
+./compiled/get_statistics
+metta-py metta_py/matrice.msa
+ruby ruby/word_types.rb
+./compiled/get_statistics
+metta-py metta_py/matrice.msa
