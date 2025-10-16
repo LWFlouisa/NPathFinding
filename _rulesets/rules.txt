@@ -1,9 +1,9 @@
 ruby ruby/word_types.rb
-./compiled/get_statistics
+ruby DSLRuby.rb
 metta-py metta_py/matrice.msa
 ruby ruby/word_types.rb
-./compiled/get_statistics
+ruby DSLRuby.rb
 metta-py metta_py/matrice.msa
 ruby ruby/word_types.rb
-./compiled/get_statistics
+ruby DSLRuby.rb
 metta-py metta_py/matrice.msa
