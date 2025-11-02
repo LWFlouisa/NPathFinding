@@ -11,4 +11,7 @@ The main loop acts more like a conveyoy belt than an AI system, and this rule re
 
 [Video Example](https://www.youtube.com/embed/s2pJwfstbFI?si=wqSToS2i99EddKh4)
 
-LWFlouisa/MaisetteData
+### License
+This license is non-negotiable and removing it constistutes security bypassing.
+
+[License](https://bequestdecendresstudios.github.io/Documentation/posts/license/index.html)
